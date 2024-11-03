@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>content</key>
+        <value></value>
+    </entry>
+    <entry>
+        <key>background_color</key>
+        <value>#FFFFFF</value> <!-- default white color -->
+    </entry>
+</defaultsMap>

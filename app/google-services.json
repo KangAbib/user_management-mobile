@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322321863696",
+    "project_id": "aplikasi-10",
+    "storage_bucket": "aplikasi-10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322321863696:android:fc24421a560b84cf7da695",
+        "android_client_info": {
+          "package_name": "balloh.khabib.ahmad.app10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShQhk-Q81V12CZCcwIhFQcXumvFZssgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
